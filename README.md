@@ -7,7 +7,7 @@
 - 📫 How to reach me poojapatil.pp82@gmail.com
 
   Connect Me
- ![image](https://www.linkedin.com/in/pooja-patil-5484951b1/)
+ Linkedin: https://www.linkedin.com/in/pooja-patil-5484951b1/
 
 <!--
 **poojapatilhr/poojapatilhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
