@@ -4,7 +4,7 @@
   
 - 🤝 I’m looking for help with referrals.
 
-- 🌱 Tableau Dashboards Link: https://public.tableau.com/app/profile/pooja5102/vizzes
+- 💬 Tableau Dashboards Link: https://public.tableau.com/app/profile/pooja5102/vizzes
   
 - 📫 How to reach me poojapatil.pp82@gmail.com
 
