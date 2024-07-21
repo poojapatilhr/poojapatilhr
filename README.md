@@ -1,5 +1,11 @@
 ## Hi 👋, I'm Pooja Patil
-- 🔭 Business Analyst with a passion for leveraging data to drive insights and inform strategic decisions. Currently completing an MS in Business Analytics at Seattle University, graduating in August 2024. Seeking full-time opportunities to make an impact.
+                                                                    A passionate Business Analyst from India
+- 🌱 Currently completing an MS in Business Analytics at Seattle University, graduating in August 2024. Seeking full-time opportunities to make an impact.
+  
+- 🤝 I’m looking for help with referrals.
+  
+- 📫 How to reach me poojapatil.pp82@gmail.com
+  
 
 <!--
 **poojapatilhr/poojapatilhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
