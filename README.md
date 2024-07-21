@@ -3,6 +3,8 @@
 - 🌱 Currently pursuing a Master's in Business Analytics from Seattle University, graduating in August 2024. Seeking full-time opportunities in business intelligence and analytics domain
   
 - 🤝 I’m looking for help with referrals.
+
+- 🌱 Tableau Dashboards Link: https://public.tableau.com/app/profile/pooja5102/vizzes
   
 - 📫 How to reach me poojapatil.pp82@gmail.com
 
