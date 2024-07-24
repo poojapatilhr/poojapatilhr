@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Pooja Patil
-                         A passionate Business Analyst, Turning Data Into Valuable Information
+                         A passionate Analyst, Turning Data Into Valuable Information
 - 🌱 Currently pursuing a Master's in Business Analytics from Seattle University, graduating in August 2024. Seeking full-time opportunities in business intelligence and analytics domain
   
 - 🤝 I’m looking for help with referrals.
